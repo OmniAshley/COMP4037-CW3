@@ -1,0 +1,1 @@
+define({availablePdf: ["Paper001","Paper002","Paper003","Paper004","Paper005","Paper006","Paper007","Paper008","Paper009","Paper010"]});
